@@ -12,7 +12,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("🏦 Ứng dụng tính lãi tiền gửi ngân hàng")
+st.title("🏦 Ứng dụng tính lãi tiền gửi ngân hàng_Nguyễn Huỳnh Thiên Thơ")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 # =========================
